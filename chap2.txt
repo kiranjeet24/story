@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git commit -m "anything u wanna right"
+git log 
+git diff
+git checkout chapter.3 leds to update previous version.
